@@ -13,6 +13,9 @@ echo "<p> <p> <p> <p> <p> <p> </p></p></p></p></p></p>";
 foreach($sql->fetchAll() as $res){      //fetchAll（）    输出
     echo $res[1]."<br>".$res[2]."<hr>";
 }
+$insert = $pdo->exec("insert into user (user,pass) values ('user','pass')"); //使用exec（）添加数据到数据库，返回影响行数
+$delete = $pdo->exec("delete from user where user='user'");                 //使用exec（）从数据库删除数据，返回影响行数
+echo "<hr>共增加 $insert 条数据<hr>共删除 $delete 条数据<hr>";
 $pdo = null;    //数据库关闭
 
 
