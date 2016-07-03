@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b7f9c7b-e526-4693-9fef-685fb51de8d1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目声明.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Amd.iws" />
@@ -31,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70087975">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state vertical-scroll-proportion="-12.46875">
+              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
               <folding>
                 <marker date="1467537249505" expanded="true" signature="539:557" placeholder="select * fro..user..." />
                 <marker date="1467537249505" expanded="true" signature="850:901" placeholder="insert into user..." />
@@ -46,39 +47,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="true" current-in-tab="false">
-        <entry file="REMOTE_DEPLOYMENT_FS://&lt;b19da63d-4ecd-4aa6-8620-b815bbe7dcaa&gt;/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="18.724638">
-              <caret line="7" column="1" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-              <folding>
-                <marker date="0" expanded="true" signature="194:212" placeholder="select * fro..user..." />
-                <marker date="0" expanded="true" signature="624:675" placeholder="insert into user..." />
-                <marker date="0" expanded="true" signature="727:761" placeholder="delete from ..." />
-                <marker date="0" expanded="true" signature="829:874" placeholder="update user ..." />
-                <marker date="0" expanded="true" signature="1144:2377" placeholder="..." />
-                <marker date="0" expanded="true" signature="1151:1202" placeholder="..." />
-                <marker date="0" expanded="true" signature="1209:2369" placeholder="..." />
-                <marker date="0" expanded="true" signature="1318:1355" placeholder="select * fro..user..." />
-                <marker date="0" expanded="true" signature="1318:1372" placeholder="select * fro..user..." />
-                <marker date="0" expanded="true" signature="1605:1650" placeholder="insert into user..." />
-                <marker date="0" expanded="true" signature="1605:1658" placeholder="insert into user..." />
-                <marker date="0" expanded="true" signature="1816:1969" placeholder="..." />
-                <marker date="0" expanded="true" signature="2060:2213" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Copy1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Copy1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.8125">
+            <state vertical-scroll-proportion="-1.0625">
               <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
                 <marker date="1467537206085" expanded="true" signature="588:642" placeholder="select * fro..user..." />
                 <marker date="1467537206085" expanded="true" signature="875:928" placeholder="insert into user..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="项目声明.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/项目声明.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14285715">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,6 +81,7 @@
         <option value="&lt;b19da63d-4ecd-4aa6-8620-b815bbe7dcaa&gt;/index.php" />
         <option value="$PROJECT_DIR$/Copy1.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/项目声明.txt" />
       </list>
     </option>
   </component>
@@ -101,6 +89,9 @@
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -135,7 +126,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -156,6 +146,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,6 +224,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -241,6 +240,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1467537249505" expanded="true" signature="539:557" placeholder="select * fro..user..." />
+            <marker date="1467537249505" expanded="true" signature="850:901" placeholder="insert into user..." />
+            <marker date="1467537249505" expanded="true" signature="953:987" placeholder="delete from ..." />
+            <marker date="1467537249505" expanded="true" signature="1055:1099" placeholder="update user ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Copy1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1467537206085" expanded="true" signature="588:642" placeholder="select * fro..user..." />
+            <marker date="1467537206085" expanded="true" signature="875:928" placeholder="insert into user..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -281,9 +304,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.46875">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <marker date="1467537249505" expanded="true" signature="539:557" placeholder="select * fro..user..." />
+            <marker date="1467537249505" expanded="true" signature="850:901" placeholder="insert into user..." />
+            <marker date="1467537249505" expanded="true" signature="953:987" placeholder="delete from ..." />
+            <marker date="1467537249505" expanded="true" signature="1055:1099" placeholder="update user ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Copy1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.8125">
+        <state vertical-scroll-proportion="-1.0625">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
             <marker date="1467537206085" expanded="true" signature="588:642" placeholder="select * fro..user..." />
@@ -292,16 +328,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/项目声明.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70087975">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <marker date="1467537249505" expanded="true" signature="539:557" placeholder="select * fro..user..." />
-            <marker date="1467537249505" expanded="true" signature="850:901" placeholder="insert into user..." />
-            <marker date="1467537249505" expanded="true" signature="953:987" placeholder="delete from ..." />
-            <marker date="1467537249505" expanded="true" signature="1055:1099" placeholder="update user ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.14285715">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
