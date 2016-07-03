@@ -15,7 +15,8 @@ foreach($sql->fetchAll() as $res){      //fetchAll（）    输出
 }
 $insert = $pdo->exec("insert into user (user,pass) values ('user','pass')"); //使用exec（）添加数据到数据库，返回影响行数
 $delete = $pdo->exec("delete from user where user='user'");                 //使用exec（）从数据库删除数据，返回影响行数
-echo "<hr>共增加 $insert 条数据<hr>共删除 $delete 条数据<hr>";
+$update = $pdo->exec("update user set pass='pass' where user='000'");       //使用exec（）修改数据库的数据，返回影响行数
+echo "<hr>共增加 $insert 条数据<hr>共删除 $delete 条数据<hr>共修改 $update 条数据<hr>";
 $pdo = null;    //数据库关闭
 
 
