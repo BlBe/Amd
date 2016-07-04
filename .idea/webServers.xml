@@ -3,14 +3,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b19da63d-4ecd-4aa6-8620-b815bbe7dcaa" name="KsWeb" url="http://192.168.1.112">
-        <fileTransfer host="192.168.1.112" port="2121" rootFolder="/file" password="dfcbdfd9dfce" username="sds">
+        <fileTransfer host="192.168.1.112" port="2121" password="dfcbdfd9dfce" username="sds">
           <advancedOptions>
             <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="cb809639-04ef-4eb0-917c-dbefe23239d1" name="520.lht520.tk" url="http://31.220.16.58">
-        <fileTransfer host="31.220.16.58" port="21" rootFolder="/public_html" password="dfdbdfdddfcfdfd8df9bdf98" username="u418217842">
+      <webServer id="cb809639-04ef-4eb0-917c-dbefe23239d1" name="520.lht520.tk" url="http://31.220.16.229">
+        <fileTransfer host="31.220.16.229" port="21" rootFolder="/public_html/520" password="dfdbdfdddfcfdfd8df9bdf98df99df9e" username="u461920741">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
