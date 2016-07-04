@@ -1,0 +1,14 @@
+在编写CSS3样式时，不同的浏览器可能需要不同的前缀。
+它表示该CSS属性或规则尚未成为W3C标准的一部分，是浏
+览器的私有属性，虽然目前较新版本的浏览器都是不需要
+前缀的，但为了更好的向前兼容前缀还是少不了的。
+
+前缀                      浏览器
+-webkit                 chrome和safari
+-moz                    firefox
+-ms                     IE
+-o                      opera
+
+IE党注意了：此课程不支持IE9版本以下，建议使用
+chrome、safari、firefox、opera浏览器的最高版本学习
+本课程。
