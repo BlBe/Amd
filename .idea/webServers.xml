@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b19da63d-4ecd-4aa6-8620-b815bbe7dcaa" name="KsWeb" url="http://192.168.1.112">
-        <fileTransfer host="192.168.1.112" port="2121" password="dfcbdfd9dfce" username="sds">
+        <fileTransfer host="192.168.1.112" port="2121" password="dfcbdfd9dfce" username="asd">
           <advancedOptions>
             <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
